@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600880082 source:d:\pliki\projekty\quiz poprawny\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+
